@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="316.5" height="43" viewBox="0 0 316.5 43">
+  <g id="Grupo_15872" data-name="Grupo 15872" transform="translate(-566 -10381.532)">
+    <g id="Grupo_15786" data-name="Grupo 15786" transform="translate(49 1682.532)">
+      <text id="Aguja" transform="translate(559.5 8710)" fill="#00223d" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="-20.406" y="17">Aguja</tspan></text>
+      <text id="Tejido" transform="translate(671.5 8710)" fill="#00223d" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="-20.867" y="17">Tejido</tspan></text>
+      <text id="Hilo" transform="translate(783.5 8710)" fill="#00223d" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="-14.242" y="17">Hilo</tspan></text>
+      <g id="Rectángulo_3803" data-name="Rectángulo 3803" transform="translate(517 8699)" fill="none" stroke="#673ab7" stroke-width="2">
+        <rect width="85" height="43" rx="21.5" stroke="none"/>
+        <rect x="1" y="1" width="83" height="41" rx="20.5" fill="none"/>
+      </g>
+      <g id="Rectángulo_3804" data-name="Rectángulo 3804" transform="translate(629 8699)" fill="none" stroke="#673ab7" stroke-width="2">
+        <rect width="85" height="43" rx="21.5" stroke="none"/>
+        <rect x="1" y="1" width="83" height="41" rx="20.5" fill="none"/>
+      </g>
+      <g id="Rectángulo_3805" data-name="Rectángulo 3805" transform="translate(741 8699)" fill="none" stroke="#673ab7" stroke-width="2">
+        <rect width="85" height="43" rx="21.5" stroke="none"/>
+        <rect x="1" y="1" width="83" height="41" rx="20.5" fill="none"/>
+      </g>
+      <path id="Trazado_24850" data-name="Trazado 24850" d="M6886,8721.5h28" transform="translate(-6172 -1)" fill="none" stroke="#673ab7" stroke-width="2"/>
+      <path id="Trazado_24851" data-name="Trazado 24851" d="M6886,8721.5h28" transform="translate(-6285 -1)" fill="none" stroke="#673ab7" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

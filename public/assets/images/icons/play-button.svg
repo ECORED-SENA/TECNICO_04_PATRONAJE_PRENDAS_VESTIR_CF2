@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34">
+  <g id="Grupo_9901" data-name="Grupo 9901" transform="translate(-567.885 -1186.055)">
+    <g id="Elipse_514" data-name="Elipse 514" transform="translate(567.885 1186.055)" fill="#7c3be6" stroke="#fff" stroke-width="2">
+      <circle cx="17" cy="17" r="17" stroke="none"/>
+      <circle cx="17" cy="17" r="16" fill="none"/>
+    </g>
+    <circle id="Elipse_515" data-name="Elipse 515" cx="11" cy="11" r="11" transform="translate(573.885 1192.055)" fill="#370c7d"/>
+    <path id="Polígono_10" data-name="Polígono 10" d="M4.152,1.357a1,1,0,0,1,1.7,0l3.2,5.113A1,1,0,0,1,8.2,8H1.8A1,1,0,0,1,.956,6.47Z" transform="translate(589.885 1198.055) rotate(90)" fill="#fff"/>
+  </g>
+</svg>

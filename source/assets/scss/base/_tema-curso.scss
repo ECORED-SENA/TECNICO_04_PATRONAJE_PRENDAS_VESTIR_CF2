@@ -1,0 +1,74 @@
+//Colores base del material de formación
+$brand-color-dark: #370B7D;
+$text-color-dark: #415214;
+
+
+//Esto lo puede cambiar poe el color que quiera q sugiera el tema. (sE QUITA EL lighten)
+$brand-color-light: rgb(146, 147, 78);
+$text-color-light: white;
+$brand-color-secondary: rgb(234, 230, 153);
+
+$brand-color-optional: #C6C6C6;
+
+$brand-color-1: #673AB7;
+$brand-color-2: #DB311C;
+
+.brand-color-optional {
+    background-color: $brand-color-optional !important;
+}
+
+.text-color-1 {
+    color: $brand-color-1;
+}
+
+.text-color-2 {
+    color: $brand-color-2;
+}
+
+.text-color-3 {
+    color: #415214;
+}
+
+.text-color-secondary {
+    color: $brand-color-light;
+}
+
+.bg-brand-color-secondary-rgba {
+    background: rgba(234, 230, 153, 0.40) !important;
+}
+
+.card-header.bg-color-1 {
+    background-color: $brand-color-1;
+    color: #ffffff;
+}
+
+.card-header.bg-color-2 {
+    background-color: $brand-color-light;
+    color: #ffffff;
+}
+
+.card-header.bg-color-3 {
+    background-color: $brand-color-2;
+    color: #ffffff;
+}
+
+.card-header.bg-color-4 {
+    background-color: #415214;
+    color: #ffffff;
+}
+
+#collapsableRuta1,#collapsableRuta11  {
+    .btn-link:after {
+        background-color: #415214;
+        width: 25px;
+        font-size: 15px;        
+    }
+}
+
+#collapsableRuta2 {
+    .btn-link:after {
+        background-color:$brand-color-1;
+        width: 25px;
+        font-size: 15px;        
+    }
+}

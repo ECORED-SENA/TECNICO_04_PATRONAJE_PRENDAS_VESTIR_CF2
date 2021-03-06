@@ -1,0 +1,156 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="63.2" viewBox="0 0 64 63.2">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.632" gradientTransform="translate(-0.122) scale(1.245 1)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.388" stop-color="#fbfbfb"/>
+      <stop offset="0.701" stop-color="#f1f1f1"/>
+      <stop offset="0.989" stop-color="#e0e0e0"/>
+      <stop offset="1" stop-color="#e0e0e0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="0.5" cy="0.5" r="12.427" gradientTransform="translate(1.242 549.179) scale(0.04 0.04)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#999"/>
+      <stop offset="0.331" stop-color="#9b9b9b"/>
+      <stop offset="0.511" stop-color="#a3a3a3"/>
+      <stop offset="0.654" stop-color="#b0b0b0"/>
+      <stop offset="0.778" stop-color="#c4c4c4"/>
+      <stop offset="0.889" stop-color="#ddd"/>
+      <stop offset="0.99" stop-color="#fbfbfb"/>
+      <stop offset="1" stop-color="#fff"/>
+    </radialGradient>
+    <clipPath id="clip-path">
+      <path id="Trazado_3642" data-name="Trazado 3642" d="M302,81.5a1.5,1.5,0,0,1-1.5-1.5V22a1.5,1.5,0,0,1,1.5-1.5h26.866L349.5,32.99V80a1.5,1.5,0,0,1-1.5,1.5Z" fill="url(#radial-gradient)"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-4" cx="-0.089" cy="-0.23" r="2.035" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e5e5e5"/>
+      <stop offset="0.338" stop-color="#e1e1e1"/>
+      <stop offset="0.612" stop-color="#d7d7d7"/>
+      <stop offset="0.863" stop-color="#c6c6c6"/>
+      <stop offset="1" stop-color="#bababa"/>
+    </radialGradient>
+    <clipPath id="clip-path-2">
+      <rect id="Rectángulo_3093" data-name="Rectángulo 3093" width="22" height="20.5" transform="translate(329 61)" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-5" cx="0.514" cy="0.979" r="1.09" gradientTransform="translate(0.175 -0.067) scale(0.834 1.064)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffeded"/>
+      <stop offset="1" stop-color="#ff9696"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1.014" x2="0.5" y2="-0.372" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fec4c3"/>
+      <stop offset="1" stop-color="#f07878"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="0.948" x2="0.5" y2="0.017" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#eeb4b4"/>
+      <stop offset="1" stop-color="#e87d7d"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-6" cx="1.97" cy="-5.167" r="40.587" gradientTransform="translate(0.455) scale(0.091 1)" xlink:href="#radial-gradient-4"/>
+    <radialGradient id="radial-gradient-7" cx="1.381" cy="-5.167" r="40.587" gradientTransform="translate(0.429) scale(0.143 1)" xlink:href="#radial-gradient-4"/>
+    <radialGradient id="radial-gradient-8" cx="3.611" cy="-7.167" r="40.587" gradientTransform="translate(0.417) scale(0.167 1)" xlink:href="#radial-gradient-4"/>
+    <radialGradient id="radial-gradient-9" cx="4.333" cy="5.917" r="20.293" gradientTransform="translate(0.3) scale(0.4 1)" xlink:href="#radial-gradient-4"/>
+    <radialGradient id="radial-gradient-10" cx="0.979" cy="5.917" r="20.293" gradientTransform="translate(0.438) scale(0.125 1)" xlink:href="#radial-gradient-4"/>
+    <radialGradient id="radial-gradient-11" cx="-0.333" cy="5.917" r="20.293" gradientTransform="translate(0.25) scale(0.5 1)" xlink:href="#radial-gradient-4"/>
+    <radialGradient id="radial-gradient-12" cx="-1.056" cy="5.917" r="20.293" gradientTransform="translate(0.333) scale(0.333 1)" xlink:href="#radial-gradient-4"/>
+    <radialGradient id="radial-gradient-13" cx="3.095" cy="-10.167" r="40.587" gradientTransform="translate(0.429) scale(0.143 1)" xlink:href="#radial-gradient-4"/>
+    <radialGradient id="radial-gradient-14" cx="1.519" cy="-10.167" r="40.587" gradientTransform="translate(0.444) scale(0.111 1)" xlink:href="#radial-gradient-4"/>
+    <radialGradient id="radial-gradient-15" cx="1.97" cy="-12.167" r="40.587" gradientTransform="translate(0.455) scale(0.091 1)" xlink:href="#radial-gradient-4"/>
+    <radialGradient id="radial-gradient-16" cx="4.833" cy="-12.167" r="40.587" gradientTransform="translate(0.25) scale(0.5 1)" xlink:href="#radial-gradient-4"/>
+    <radialGradient id="radial-gradient-17" cx="2.222" cy="-12.167" r="40.587" gradientTransform="translate(0.333) scale(0.333 1)" xlink:href="#radial-gradient-4"/>
+    <radialGradient id="radial-gradient-18" cx="7.222" cy="-14.167" r="40.587" gradientTransform="translate(0.333) scale(0.333 1)" xlink:href="#radial-gradient-4"/>
+    <radialGradient id="radial-gradient-19" cx="1.472" cy="-14.167" r="40.587" gradientTransform="translate(0.458) scale(0.083 1)" xlink:href="#radial-gradient-4"/>
+    <radialGradient id="radial-gradient-20" cx="2.708" cy="-16.167" r="40.587" gradientTransform="translate(0.438) scale(0.125 1)" xlink:href="#radial-gradient-4"/>
+    <radialGradient id="radial-gradient-21" cx="1.407" cy="-16.167" r="40.587" gradientTransform="translate(0.444) scale(0.111 1)" xlink:href="#radial-gradient-4"/>
+    <radialGradient id="radial-gradient-24" cx="3.613" cy="-7.167" r="87.938" gradientTransform="translate(-2.476 -3.859) scale(0.077 0.462)" xlink:href="#radial-gradient-4"/>
+    <radialGradient id="radial-gradient-34" cx="-0.021" cy="7.833" r="40.587" gradientTransform="translate(0.469) scale(0.063 1)" xlink:href="#radial-gradient-4"/>
+    <radialGradient id="radial-gradient-35" cx="-0.048" cy="5.833" r="40.587" gradientTransform="translate(0.429) scale(0.143 1)" xlink:href="#radial-gradient-4"/>
+    <radialGradient id="radial-gradient-36" cx="-0.758" cy="5.833" r="40.587" gradientTransform="translate(0.455) scale(0.091 1)" xlink:href="#radial-gradient-4"/>
+    <radialGradient id="radial-gradient-37" cx="-0.048" cy="1.833" r="40.587" gradientTransform="translate(0.429) scale(0.143 1)" xlink:href="#radial-gradient-4"/>
+    <radialGradient id="radial-gradient-38" cx="-8.333" cy="1.833" r="40.587" xlink:href="#radial-gradient-4"/>
+    <radialGradient id="radial-gradient-39" cx="-1.476" cy="1.833" r="40.587" gradientTransform="translate(0.429) scale(0.143 1)" xlink:href="#radial-gradient-4"/>
+    <radialGradient id="radial-gradient-40" cx="-0.028" cy="3.833" r="40.587" gradientTransform="translate(0.458) scale(0.083 1)" xlink:href="#radial-gradient-4"/>
+    <radialGradient id="radial-gradient-41" cx="-3.333" cy="3.833" r="40.587" gradientTransform="translate(0.375) scale(0.25 1)" xlink:href="#radial-gradient-4"/>
+    <linearGradient id="linear-gradient-3" x1="0.474" y1="0.408" x2="-0.3" y2="1.722" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.337" stop-color="#f9f9f9"/>
+      <stop offset="0.752" stop-color="#eaeaea"/>
+      <stop offset="1" stop-color="#dedede"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-42" cx="0.51" cy="1.582" r="1.91" gradientTransform="translate(0.286 0) scale(0.439 1)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f03b46"/>
+      <stop offset="0.251" stop-color="#ea3741"/>
+      <stop offset="0.562" stop-color="#db2b34"/>
+      <stop offset="0.902" stop-color="#c21920"/>
+      <stop offset="1" stop-color="#ba1319"/>
+    </radialGradient>
+  </defs>
+  <g id="Grupo_11247" data-name="Grupo 11247" transform="translate(-293 -20)">
+    <path id="Trazado_3632" data-name="Trazado 3632" d="M293,81.912c0-.711,14.327-1.287,32-1.287s32,.576,32,1.287S342.673,83.2,325,83.2,293,82.624,293,81.912Z" fill="url(#radial-gradient-2)"/>
+    <path id="Trazado_3633" data-name="Trazado 3633" d="M329,20H302a2,2,0,0,0-2,2V80a2,2,0,0,0,2,2h46a2,2,0,0,0,2-2V32.7Z" fill="#ccc"/>
+    <g id="Grupo_11243" data-name="Grupo 11243">
+      <path id="Trazado_3634" data-name="Trazado 3634" d="M302,81.5a1.5,1.5,0,0,1-1.5-1.5V22a1.5,1.5,0,0,1,1.5-1.5h26.866L349.5,32.99V80a1.5,1.5,0,0,1-1.5,1.5Z" fill="url(#radial-gradient)"/>
+      <g id="Grupo_11242" data-name="Grupo 11242" clip-path="url(#clip-path)">
+        <g id="Grupo_11241" data-name="Grupo 11241">
+          <path id="Trazado_3635" data-name="Trazado 3635" d="M352,84H327V59h25Zm-1-24H328V83h23Z" fill="url(#radial-gradient-4)"/>
+          <g id="Grupo_11240" data-name="Grupo 11240">
+            <g id="Grupo_11239" data-name="Grupo 11239" clip-path="url(#clip-path-2)">
+              <g id="Grupo_11238" data-name="Grupo 11238">
+                <path id="Trazado_3636" data-name="Trazado 3636" d="M354.654,82.056a.735.735,0,0,1-.712.757H328.989a.734.734,0,0,1-.711-.757V61.582a.735.735,0,0,1,.711-.759h24.953a.736.736,0,0,1,.712.759Z" fill="url(#radial-gradient-5)"/>
+                <path id="Trazado_3637" data-name="Trazado 3637" d="M357.508,74.471s-3.623-3.789-7.245-3.789-7.245,3.031-9.962,3.031-8.151-5.307-11.773-5.307S324,69.924,324,69.924v9.1h33.508Z" fill="url(#linear-gradient)"/>
+                <path id="Trazado_3638" data-name="Trazado 3638" d="M328.278,78.914s2.853-3.25,5.7-3.25,5.7,2.6,7.842,2.6,6.416-4.551,9.269-4.551,3.562,1.3,3.562,1.3v7.8H328.278Z" fill="url(#linear-gradient-2)"/>
+              </g>
+            </g>
+          </g>
+          <rect id="Rectángulo_3094" data-name="Rectángulo 3094" width="11" height="1" transform="translate(305 62)" fill="url(#radial-gradient-6)"/>
+          <rect id="Rectángulo_3095" data-name="Rectángulo 3095" width="7" height="1" transform="translate(317 62)" fill="url(#radial-gradient-7)"/>
+          <rect id="Rectángulo_3096" data-name="Rectángulo 3096" width="6" height="1" transform="translate(305 64)" fill="url(#radial-gradient-8)"/>
+          <path id="Trazado_3639" data-name="Trazado 3639" d="M308,45V44h-3v2h5V45Z" fill="url(#radial-gradient-9)"/>
+          <path id="Trazado_3640" data-name="Trazado 3640" d="M324,45h3V44H311v2h13Z" fill="url(#radial-gradient-10)"/>
+          <rect id="Rectángulo_3097" data-name="Rectángulo 3097" width="4" height="2" transform="translate(328 44)" fill="url(#radial-gradient-11)"/>
+          <path id="Trazado_3641" data-name="Trazado 3641" d="M338,45V44h-5v2h6V45Z" fill="url(#radial-gradient-12)"/>
+          <rect id="Rectángulo_3098" data-name="Rectángulo 3098" width="7" height="1" transform="translate(305 67)" fill="url(#radial-gradient-13)"/>
+          <rect id="Rectángulo_3099" data-name="Rectángulo 3099" width="9" height="1" transform="translate(313 67)" fill="url(#radial-gradient-14)"/>
+          <rect id="Rectángulo_3100" data-name="Rectángulo 3100" width="11" height="1" transform="translate(305 69)" fill="url(#radial-gradient-15)"/>
+          <rect id="Rectángulo_3101" data-name="Rectángulo 3101" width="2" height="1" transform="translate(317 69)" fill="url(#radial-gradient-16)"/>
+          <rect id="Rectángulo_3102" data-name="Rectángulo 3102" width="3" height="1" transform="translate(320 69)" fill="url(#radial-gradient-17)"/>
+          <rect id="Rectángulo_3103" data-name="Rectángulo 3103" width="3" height="1" transform="translate(305 71)" fill="url(#radial-gradient-18)"/>
+          <rect id="Rectángulo_3104" data-name="Rectángulo 3104" width="12" height="1" transform="translate(309 71)" fill="url(#radial-gradient-19)"/>
+          <rect id="Rectángulo_3105" data-name="Rectángulo 3105" width="8" height="1" transform="translate(305 73)" fill="url(#radial-gradient-20)"/>
+          <rect id="Rectángulo_3106" data-name="Rectángulo 3106" width="9" height="1" transform="translate(314 73)" fill="url(#radial-gradient-21)"/>
+          <rect id="Rectángulo_3107" data-name="Rectángulo 3107" width="11" height="1" transform="translate(305 49)" fill="url(#radial-gradient-6)"/>
+          <rect id="Rectángulo_3108" data-name="Rectángulo 3108" width="7" height="1" transform="translate(317 49)" fill="url(#radial-gradient-7)"/>
+          <rect id="Rectángulo_3109" data-name="Rectángulo 3109" width="13" height="1" transform="translate(305 51)" fill="url(#radial-gradient-24)"/>
+          <rect id="Rectángulo_3110" data-name="Rectángulo 3110" width="7" height="1" transform="translate(305 54)" fill="url(#radial-gradient-13)"/>
+          <rect id="Rectángulo_3111" data-name="Rectángulo 3111" width="9" height="1" transform="translate(313 54)" fill="url(#radial-gradient-14)"/>
+          <rect id="Rectángulo_3112" data-name="Rectángulo 3112" width="11" height="1" transform="translate(305 56)" fill="url(#radial-gradient-15)"/>
+          <rect id="Rectángulo_3113" data-name="Rectángulo 3113" width="2" height="1" transform="translate(317 56)" fill="url(#radial-gradient-16)"/>
+          <rect id="Rectángulo_3114" data-name="Rectángulo 3114" width="3" height="1" transform="translate(320 56)" fill="url(#radial-gradient-17)"/>
+          <rect id="Rectángulo_3115" data-name="Rectángulo 3115" width="3" height="1" transform="translate(305 58)" fill="url(#radial-gradient-18)"/>
+          <rect id="Rectángulo_3116" data-name="Rectángulo 3116" width="12" height="1" transform="translate(309 58)" fill="url(#radial-gradient-19)"/>
+          <rect id="Rectángulo_3117" data-name="Rectángulo 3117" width="8" height="1" transform="translate(305 60)" fill="url(#radial-gradient-20)"/>
+          <rect id="Rectángulo_3118" data-name="Rectángulo 3118" width="9" height="1" transform="translate(314 60)" fill="url(#radial-gradient-21)"/>
+          <rect id="Rectángulo_3119" data-name="Rectángulo 3119" width="16" height="1" transform="translate(327 49)" fill="url(#radial-gradient-34)"/>
+          <rect id="Rectángulo_3120" data-name="Rectángulo 3120" width="7" height="1" transform="translate(327 51)" fill="url(#radial-gradient-35)"/>
+          <rect id="Rectángulo_3121" data-name="Rectángulo 3121" width="11" height="1" transform="translate(335 51)" fill="url(#radial-gradient-36)"/>
+          <rect id="Rectángulo_3122" data-name="Rectángulo 3122" width="7" height="1" transform="translate(327 55)" fill="url(#radial-gradient-37)"/>
+          <rect id="Rectángulo_3123" data-name="Rectángulo 3123" width="1" height="1" transform="translate(335 55)" fill="url(#radial-gradient-38)"/>
+          <rect id="Rectángulo_3124" data-name="Rectángulo 3124" width="7" height="1" transform="translate(337 55)" fill="url(#radial-gradient-39)"/>
+          <rect id="Rectángulo_3125" data-name="Rectángulo 3125" width="12" height="1" transform="translate(327 53)" fill="url(#radial-gradient-40)"/>
+          <rect id="Rectángulo_3126" data-name="Rectángulo 3126" width="4" height="1" transform="translate(340 53)" fill="url(#radial-gradient-41)"/>
+        </g>
+      </g>
+    </g>
+    <path id="Trazado_3643" data-name="Trazado 3643" d="M338.232,39.262a2,2,0,0,1-2.733-.733L328.866,20.5,349.5,32.912Z" fill="#ccc"/>
+    <path id="Trazado_3644" data-name="Trazado 3644" d="M339.232,37.262a2,2,0,0,1-2.733-.732L328.866,20.5,349.5,32.912Z" fill="url(#linear-gradient-3)"/>
+    <g id="Grupo_11244" data-name="Grupo 11244">
+      <path id="Trazado_3645" data-name="Trazado 3645" d="M350,32.7,329,20H302a2,2,0,0,0-2,2V42h50Z" fill="#a0121d"/>
+    </g>
+    <g id="Grupo_11245" data-name="Grupo 11245">
+      <path id="Trazado_3646" data-name="Trazado 3646" d="M349.5,32.99,328.866,20.5H302a1.5,1.5,0,0,0-1.5,1.5V42h49Z" fill="url(#radial-gradient-42)"/>
+    </g>
+    <path id="Trazado_3647" data-name="Trazado 3647" d="M338.232,39.262a2,2,0,0,1-2.733-.733L328.866,20.5,349.5,32.912Z" fill="#ba1319"/>
+    <path id="Trazado_3648" data-name="Trazado 3648" d="M339.232,37.262a2,2,0,0,1-2.733-.732L328.866,20.5,349.5,32.912Z" fill="#f03b46"/>
+    <g id="Grupo_11246" data-name="Grupo 11246">
+      <path id="Trazado_3649" data-name="Trazado 3649" d="M308.909,27.892a3,3,0,0,1,1.14.194,2.119,2.119,0,0,1,.764.516,1.968,1.968,0,0,1,.431.73,2.727,2.727,0,0,1,0,1.695,1.98,1.98,0,0,1-.431.735,2.13,2.13,0,0,1-.764.515,2.979,2.979,0,0,1-1.14.195h-1.65v2.56h-1.57v-7.14Zm-.431,3.36a3.142,3.142,0,0,0,.521-.041,1.2,1.2,0,0,0,.439-.154.849.849,0,0,0,.306-.325,1.386,1.386,0,0,0,0-1.1.846.846,0,0,0-.306-.324,1.186,1.186,0,0,0-.439-.155,3.375,3.375,0,0,0-.521-.04h-1.219v2.14Z" fill="#fff"/>
+      <path id="Trazado_3650" data-name="Trazado 3650" d="M315.438,27.892a3.676,3.676,0,0,1,1.286.22,2.778,2.778,0,0,1,1.03.66,3.053,3.053,0,0,1,.68,1.1,4.457,4.457,0,0,1,.245,1.549,4.93,4.93,0,0,1-.2,1.441,3.138,3.138,0,0,1-.6,1.14,2.838,2.838,0,0,1-1.011.755,3.421,3.421,0,0,1-1.425.275h-3.08v-7.14Zm-.109,5.82a1.99,1.99,0,0,0,.659-.11,1.45,1.45,0,0,0,.571-.365,1.846,1.846,0,0,0,.4-.665,2.932,2.932,0,0,0,.149-1,4.213,4.213,0,0,0-.1-.975,1.955,1.955,0,0,0-.345-.745,1.526,1.526,0,0,0-.636-.475,2.526,2.526,0,0,0-.974-.166h-1.12v4.5Z" fill="#fff"/>
+      <path id="Trazado_3651" data-name="Trazado 3651" d="M324.789,27.892v1.319h-3.45v1.651h2.99v1.22h-2.99v2.95h-1.57v-7.14Z" fill="#fff"/>
+    </g>
+  </g>
+</svg>

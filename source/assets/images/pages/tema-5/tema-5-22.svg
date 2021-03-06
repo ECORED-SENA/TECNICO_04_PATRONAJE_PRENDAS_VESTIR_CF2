@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="330.812" height="262.582" viewBox="0 0 330.812 262.582">
+  <g id="Grupo_15872" data-name="Grupo 15872" transform="translate(-361.594 -7896.67)">
+    <g id="Grupo_15791" data-name="Grupo 15791" transform="translate(0 499)">
+      <g id="Rectángulo_3781" data-name="Rectángulo 3781" transform="translate(361.594 7429.17)" fill="none" stroke="#673ab7" stroke-width="3">
+        <rect width="330.812" height="231.082" rx="8" stroke="none"/>
+        <rect x="1.5" y="1.5" width="327.812" height="228.082" rx="6.5" fill="none"/>
+      </g>
+      <g id="Rectángulo_3812" data-name="Rectángulo 3812" transform="translate(387.114 7397.67)" fill="#fff" stroke="#673ab7" stroke-width="3">
+        <rect width="279.771" height="63" rx="31.5" stroke="none"/>
+        <rect x="1.5" y="1.5" width="276.771" height="60" rx="30" fill="none"/>
+      </g>
+      <text id="_Tipo_de_tela_y_grueso_Tipo_de_hilo_y_tamaño_Puntada_y_tipo_de_costura_Puntadas_por_pulgada_Balance_de_la_puntada_tensión_" data-name="▪  Tipo de tela y grueso
+▪  Tipo de hilo y tamaño
+▪  Puntada y tipo de costura
+▪  Puntadas por pulgada
+▪  Balance de la puntada (tensión)" transform="translate(400 7480.626)" fill="#00223d" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="17" xml:space="preserve">▪  Tipo de tela y grueso</tspan><tspan x="0" y="39" xml:space="preserve">▪  Tipo de hilo y tamaño</tspan><tspan x="0" y="61" xml:space="preserve">▪  Puntada y tipo de costura</tspan><tspan x="0" y="83" xml:space="preserve">▪  Puntadas por pulgada</tspan><tspan x="0" y="105" xml:space="preserve">▪  Balance de la puntada (tensión)</tspan></text>
+      <text id="Factores_que_afectan_la_resistencia_de_las_costuras" data-name="Factores que afectan la resistencia de las costuras" transform="translate(418.041 7406.17)" fill="#00223d" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="19">Factores que afectan la </tspan><tspan x="0" y="41">resistencia de las costuras</tspan></text>
+    </g>
+  </g>
+</svg>

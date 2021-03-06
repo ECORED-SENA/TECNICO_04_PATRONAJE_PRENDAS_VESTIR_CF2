@@ -1,0 +1,125 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  },
+  {
+    "id": 1,
+    "icon": "fa fa-play-circle",
+    "slug": "tema-1",
+    "title": "1. Conceptos de Pre-Patronaje",
+    "breadcrumb": ["Inicio","Tema 1"],
+    "path": "pages/tema-1.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-1",
+        "title": "Introducción",
+        "anchor": "tema-00"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-1",
+        "title": "1.1. Análisis e identificación de la estructura. ",
+        "anchor": "tema-11"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-1",
+        "title": "1.2 Clasificación de las medidas",
+        "anchor": "tema-12"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-1",
+        "title": "1.3 Análisis de cuadros de tallas",
+        "anchor": "tema-13"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-1",
+        "title": "1.4 Patronaje",
+        "anchor": "tema-14"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-1",
+        "title": "1.5 Elaboración de básicos infantil",
+        "anchor": "tema-15"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-1",
+        "title": "1.6 Elaboración de básicos masculinos",
+        "anchor": "tema-16"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-1",
+        "title": "1.7 Elaboración de básicos femeninos",
+        "anchor": "tema-17"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "icon": "fa fa-play-circle",
+    "slug": "tema-2",
+    "title": "2. Alistamiento para elaboración de muestra física 1",
+    "breadcrumb": ["Inicio","Tema 2"],
+    "path": "pages/tema-2.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-2",
+        "title": "2.1 Tipos de máquinas",
+        "anchor": "tema-21"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-2",
+        "title": "2.2 Partes de la máquina",
+        "anchor": "tema-22"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-2",
+        "title": "2.3 Alimentación o transporte (arrastre)",
+        "anchor": "tema-23"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-2",
+        "title": "2.4 Generaciones de máquinas",
+        "anchor": "tema-24"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-2",
+        "title": "2.5 Clasificación, nomenclatura, puntas, calibres y usos.",
+        "anchor": "tema-25"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-2",
+        "title": "2.6 Relación de elementos de costura: tela, aguja, puntada, hilo, ajuste.",
+        "anchor": "tema-26"
+      }
+      ,
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-2",
+        "title": "2.7 Calibrar",
+        "anchor": "tema-27"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "tema-2",
+        "title": "2.8 Desarrollo de operaciones básico para ensamble de piezas",
+        "anchor": "tema-28"
+      }
+    ]
+  }           
+]

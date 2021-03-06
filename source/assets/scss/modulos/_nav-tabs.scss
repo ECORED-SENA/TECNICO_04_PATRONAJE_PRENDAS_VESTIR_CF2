@@ -1,0 +1,109 @@
+.nav-tab-ecored {
+    .tab-content {
+        padding: 2rem;
+    }
+
+    .nav-tabs {
+        background: #D2BEF6;
+    }
+
+    .nav-tabs .nav-item {
+        margin-right: 0;
+        margin-left: 0;
+    }
+
+    .nav-tabs .nav-link {
+        padding: 1rem 0;
+        padding-left: 24px;
+        padding-right: 24px;
+
+        @media screen and (max-width:$breakpoint-small) {
+            width: 100%;
+        }
+    }
+
+    .nav-tabs .nav-link.active, .nav-tabs .nav-item.show .nav-link {
+        border-color: transparent;
+        background: #BA68C8;
+        color: #fff !important;
+    }
+
+    .nav-tabs .nav-link:not(.active) {
+        color: #673AB7 !important;
+        margin: 0px;
+    }
+}
+
+.nav-tab-ecored2 {
+    .tab-content {
+        padding: 2rem;
+    }
+
+    .nav-tabs {
+        background: #fff;
+    }
+
+    .nav-tabs .nav-item {
+        margin-right: 0;
+        margin-left: 0;
+    }
+
+    .nav-tabs .nav-link {
+        padding: 1rem 0;
+        padding-left: 24px;
+        padding-right: 24px;
+
+        @media screen and (max-width:$breakpoint-small) {
+            width: 100%;
+        }
+    }
+
+    .nav-tabs .nav-link.active, .nav-tabs .nav-item.show .nav-link {
+        border-color: #673AB7 !important;
+        background: #fff;
+        border-bottom: solid;
+    }
+
+    .nav-tabs .nav-link:not(.active) {
+        color: #673AB7 !important;
+        margin: 0px;
+    }
+}
+.nav-tab-ecored3 {
+    .tab-content {
+        padding: 2rem;
+        border-color: #D2BEF6 !important;
+        border: solid;
+        border-top: none;
+    }
+
+    .nav-tabs {
+        background: #D2BEF6;
+    }
+
+    .nav-tabs .nav-item {
+        margin-right: 0;
+        margin-left: 0;
+    }
+
+    .nav-tabs .nav-link {
+        padding: 1rem 0;
+        padding-left: 24px;
+        padding-right: 24px;
+
+        @media screen and (max-width:$breakpoint-small) {
+            width: 100%;
+        }
+    }
+    .nav-tabs .nav-link.active, .nav-tabs .nav-item.show .nav-link {
+        border-color: #D2BEF6 !important;
+        border: solid;
+        border-bottom: none;
+        background: #fff;
+    }
+
+    .nav-tabs .nav-link:not(.active) {
+        color: #673AB7 !important;
+        margin: 0px;
+    }
+}

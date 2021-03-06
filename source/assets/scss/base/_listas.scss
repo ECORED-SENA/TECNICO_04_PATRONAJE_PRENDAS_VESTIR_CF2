@@ -1,0 +1,41 @@
+ol.lista {
+  counter-reset: li;
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+
+  li {
+      margin-bottom: 8px;
+  }
+}
+
+ol.lista > li:before {
+  counter-increment: li;
+  content: ' ' counter(li) '. ';
+  color: $primary;
+  font-weight: 600;
+  background-color: #CBD9E4; 
+  padding: 4px 4px 4px 6px;
+  text-align: center;
+  margin-right: 7px;
+  border-radius: 50%;
+  font-size: .8em;
+}
+
+ol.lista > li.mas:before {
+  counter-increment: li;
+  content: ' + ';
+  color: $primary;
+  font-weight: 600;
+  background-color: #CBD9E4; 
+  padding: 4px 4px 4px 6px;
+  text-align: center;
+  margin-right: 7px;
+  border-radius: 50%;
+  font-size: .8em;
+}
+
+ul.bullet-blue > li,
+.text-color-blue { color: #3B5FBF; } 
+ul.bullet-red > li,
+.text-color-red { color: #E24D69 } 
