@@ -6,6 +6,14 @@
     "path": "index.html"
   },
   {
+    "id": 0,
+    "icon": "fa fa-play-circle",
+    "slug": "intro",
+    "title": "Introducción",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/tema-1.html"
+  },
+  {
     "id": 1,
     "icon": "fa fa-play-circle",
     "slug": "tema-1",
@@ -13,12 +21,6 @@
     "breadcrumb": ["Inicio","Tema 1"],
     "path": "pages/tema-1.html",
     "submenu": [
-      {
-        "icon": "fa fa-file-text-o",
-        "slug": "tema-1",
-        "title": "Introducción",
-        "anchor": "tema-00"
-      },
       {
         "icon": "fa fa-file-text-o",
         "slug": "tema-1",
