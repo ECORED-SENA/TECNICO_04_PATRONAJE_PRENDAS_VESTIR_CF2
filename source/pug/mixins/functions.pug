@@ -39,9 +39,9 @@ mixin pageHeader(tituloTema, srcImagen, pagina)
 mixin referenciaItem(referencia, enlace, tituloenlace="")
     p= referencia
         if tituloenlace != ""
-            a(href= enlace, target="_blank").ml-2= tituloenlace
+            a(href= enlace, target="_blank").ml-2.linkRef= tituloenlace
         else if enlace != ""
-            a(href= enlace, target="_blank").ml-2= enlace
+            a(href= enlace, target="_blank").ml-2.linkRef= enlace
     hr
 
 
